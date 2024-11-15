@@ -5,7 +5,6 @@ import colorama
 from colorama import Fore, Style
 colorama.init()
 
-
 # Comienzo del programa principal.
 print(Fore.CYAN+"\t\tSOLVE SYSTEM ECUATIONS\n"+Style.RESET_ALL)
 print(Fore.GREEN+"Systems of the form 'Ax = b' by Gauss-Jordan elimination"+Style.RESET_ALL)
